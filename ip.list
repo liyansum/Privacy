@@ -7,4 +7,5 @@ host-suffix,tcbox.baidu.com,proxy
 host-suffix,mbd.baidu.com,proxy
 host-suffix,bdstatic.com,proxy
 host-suffix,baidu.com,proxy
+ip-cidr,180.76.76.112,proxy
 #zhihu
