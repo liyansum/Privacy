@@ -1,6 +1,7 @@
 #weibo
 host,api.weibo.cn,proxy
 #tieba
+host,tieba.baidu.com,proxy
 host-suffix,tcbox.baidu.com,proxy
 host-suffix,mbd.baidu.com,proxy
 host-suffix,bdstatic.com,proxy
