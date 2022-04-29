@@ -21,3 +21,5 @@ host-suffix,qzs.qq.com,proxy
 host,api.zhihu.com,proxy
 #toutiao
 host-suffix,zijieapi.com,proxy
+host-suffix,toutiaostatic.com,proxy
+host-suffix,toutiaoapi.com,proxy
