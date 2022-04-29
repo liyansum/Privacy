@@ -2,6 +2,8 @@
 host,api.weibo.cn,proxy
 #tieba
 host,tieba.baidu.com,proxy
+host,ppui-static-wap.cdn.bcebos.com,proxy
+host,onekey1.cmpassport.com,proxy
 host,api.beibinyang.com,proxy
 host-suffix,tcbox.baidu.com,proxy
 host-suffix,mbd.baidu.com,proxy
