@@ -11,7 +11,7 @@ host-suffix,mbd.baidu.com,proxy
 host-suffix,bdstatic.com,proxy
 host-suffix,baidu.com,proxy
 ip-cidr,180.76.76.112/32,proxy
-host-suffix,smr.snssdk.com,proxy
+host-suffix,snssdk.com,proxy
 host-suffix,wappass.bdimg.com,proxy
 host-suffix,qzs.gdtimg.com,proxy
 host-suffix,cd.xdplt.com,proxy
@@ -19,3 +19,5 @@ host-suffix,pglstatp-toutiao.com,proxy
 host-suffix,qzs.qq.com,proxy
 #zhihu
 host,api.weibo.cn,proxy
+#toutiao
+
