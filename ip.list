@@ -13,6 +13,11 @@ host-suffix,qzs.gdtimg.com,proxy
 host-suffix,cd.xdplt.com,proxy
 host-suffix,pglstatp-toutiao.com,proxy
 host-suffix,qzs.qq.com,proxy
+
+host,c.tieba.baidu.com,proxy
+host,im.tieba.baidu.com,proxy
+host,pimc2.baidu.com,proxy
+
 ip-cidr,180.76.76.112/32,proxy
 #zhihu
 host,api.zhihu.com,proxy
