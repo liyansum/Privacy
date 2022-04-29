@@ -5,15 +5,13 @@ host,ppui-static-wap.cdn.bcebos.com,proxy
 host,onekey1.cmpassport.com,proxy
 host,dispatcher.is.autonavi.com,proxy
 host-suffix,beibinyang.com,proxy
-host-suffix,tcbox.baidu.com,proxy
-host-suffix,mbd.baidu.com,proxy
 host-suffix,bdstatic.com,proxy
-ip-cidr,180.76.76.112/32,proxy
 host-suffix,wappass.bdimg.com,proxy
 host-suffix,qzs.gdtimg.com,proxy
 host-suffix,cd.xdplt.com,proxy
 host-suffix,pglstatp-toutiao.com,proxy
 host-suffix,qzs.qq.com,proxy
+ip-cidr,180.76.76.112/32,proxy
 #zhihu
 host,api.zhihu.com,proxy
 #toutiao
