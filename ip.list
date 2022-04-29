@@ -3,4 +3,5 @@ host,api.weibo.cn,proxy
 #tieba
 host-suffix,tcbox.baidu.com,proxy
 host-suffix,mbd.baidu.com,proxy
+host-suffix,api.beibinyang.com,proxy
 #zhihu
