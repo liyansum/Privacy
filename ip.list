@@ -18,6 +18,6 @@ host-suffix,cd.xdplt.com,proxy
 host-suffix,pglstatp-toutiao.com,proxy
 host-suffix,qzs.qq.com,proxy
 #zhihu
-host,api.weibo.cn,proxy
+host,api.zhihu.com,proxy
 #toutiao
-
+host-suffix,zijieapi.com,proxy
