@@ -4,7 +4,8 @@ host,api.weibo.cn,proxy
 host,tieba.baidu.com,proxy
 host,ppui-static-wap.cdn.bcebos.com,proxy
 host,onekey1.cmpassport.com,proxy
-host,api.beibinyang.com,proxy
+host,dispatcher.is.autonavi.com,proxy
+host-suffix,beibinyang.com,proxy
 host-suffix,tcbox.baidu.com,proxy
 host-suffix,mbd.baidu.com,proxy
 host-suffix,bdstatic.com,proxy
