@@ -21,6 +21,8 @@ host,passport.baidu.com,proxy
 ip-cidr,180.76.76.112/32,proxy
 #zhihu
 host,api.zhihu.com,proxy
+host,www.zhihu.com,proxy
+host,static.zhihu.com,proxy
 #toutiao
 host-suffix,snssdk.com,proxy
 host-suffix,zijieapi.com,proxy
