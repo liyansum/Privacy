@@ -30,3 +30,5 @@ host-suffix,toutiaostatic.com,proxy
 host-suffix,toutiaoapi.com,proxy
 #douyin
 host,api.amemv.com,proxy
+host,athena-api.oceanengine.com,proxy
+host-suffix,douyinstatic.com,proxy
