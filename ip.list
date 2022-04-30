@@ -13,13 +13,14 @@ host-keyword,normal-lq,proxy
 
 #tieba
 host,www.baidu.com,proxy
-host,tcbox.baidu.com,proxy
-host,tiebac.baidu.com,proxy
-host,mbd.baidu.com,proxy
-host,bdbus-turbonet.baidu.com,proxy
-host,tracker.dcdn.baidu.com,proxy
-host,bgg.baidu.com,proxy
-host,query.dcdn.baidu.com,proxy
-host,afdconf.baidu.com,proxy
-host,cdn.hiphotos.baidu.com,proxy
-host,im.tieba.baidu.com,proxy
+
+#host,tcbox.baidu.com,proxy
+#host,tiebac.baidu.com,proxy
+#host,mbd.baidu.com,proxy
+#host,bdbus-turbonet.baidu.com,proxy
+#host,tracker.dcdn.baidu.com,proxy
+#host,bgg.baidu.com,proxy
+#host,query.dcdn.baidu.com,proxy
+#host,afdconf.baidu.com,proxy
+#host,cdn.hiphotos.baidu.com,proxy
+#host,im.tieba.baidu.com,proxy
