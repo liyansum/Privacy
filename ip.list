@@ -8,13 +8,7 @@ ip-cidr,103.41.167.226/8,proxy
 host-suffix,toutiaoapi.com,proxy
 
 #tieba
-host,tiebac.baidu.com,proxy
-host,bgg.baidu.com,proxy
-host,afdconf.baidu.com,proxy
-ip-cidr,180.76.76.112/32,proxy
-ip-cidr,39.156.69.52/32,proxy
-ip-cidr,180.76.76.200/32,proxy
-ip-cidr,111.31.84.35/32,proxy
+host-suffix,baidu.com
 
 #douyin
 host-keyword,core-c-lq,proxy
