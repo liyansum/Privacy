@@ -13,13 +13,11 @@ host-suffix,qzs.gdtimg.com,proxy
 host-suffix,cd.xdplt.com,proxy
 host-suffix,pglstatp-toutiao.com,proxy
 host-suffix,qzs.qq.com,proxy
-
 host,c.tieba.baidu.com,proxy
 host,im.tieba.baidu.com,proxy
 host,pimc2.baidu.com,proxy
 host,wappass.baidu.com,proxy
 host,passport.baidu.com,proxy
-
 ip-cidr,180.76.76.112/32,proxy
 #zhihu
 host,api.zhihu.com,proxy
@@ -32,3 +30,6 @@ host-suffix,toutiaoapi.com,proxy
 host,api.amemv.com,proxy
 host,athena-api.oceanengine.com,proxy
 host-suffix,douyinstatic.com,proxy
+host,pitaya.bytedance.com,proxy
+host,api*.amemv.com,proxy
+host,cloudauth-device.aliyuncs.com,proxy
