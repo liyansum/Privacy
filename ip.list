@@ -23,8 +23,6 @@ host,im.tieba.baidu.com,proxy
 host,ossapi.baidu.com,proxy
 host,pn.baidu.com,proxy
 
-
-
 #douyin
 host-keyword,core-c-lq,proxy
 host-keyword,core-lq,proxy
