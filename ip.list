@@ -20,15 +20,7 @@ host,wappass.baidu.com,proxy
 host,passport.baidu.com,proxy
 ip-cidr,180.76.76.112/32,proxy
 #zhihu
-ip-cidr,118.89.204.198/32,proxy
 ip-cidr,103.41.167.226/8,proxy
-ip-cidr,111.32.167.196/32,proxy
-ip-cidr,111.62.96.241/32,proxy
-ip-cidr,222.35.78.41/32,proxy
-ip-cidr,111.13.135.201/32,proxy
-ip-cidr,111.13.103.44/8,proxy
-ip-cidr,183.204.14.111/32,proxy
-ip-cidr,183.204.68.200/32,proxy
 #toutiao
 host-suffix,snssdk.com,proxy
 host-suffix,zijieapi.com,proxy
