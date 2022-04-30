@@ -28,3 +28,5 @@ host-suffix,snssdk.com,proxy
 host-suffix,zijieapi.com,proxy
 host-suffix,toutiaostatic.com,proxy
 host-suffix,toutiaoapi.com,proxy
+#douyin
+host,api.awemv.com,proxy
