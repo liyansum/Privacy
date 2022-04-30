@@ -21,8 +21,8 @@ host,cdn.hiphotos.baidu.com,proxy
 host,im.tieba.baidu.com,proxy
 
 #douyin
-host-keyword,core-c-lq,proxy
-host-keyword,core-lq,proxy
+#host-keyword,core-c-lq,proxy
+#host-keyword,core-lq,proxy
 host-keyword,normal-c-lq,proxy
 host-keyword,normal-lq,proxy
 host-keyword,search-quic-lq,proxy
