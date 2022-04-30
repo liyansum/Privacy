@@ -20,8 +20,6 @@ host,query.dcdn.baidu.com,proxy
 host,afdconf.baidu.com,proxy
 host,cdn.hiphotos.baidu.com,proxy
 host,im.tieba.baidu.com,proxy
-host,ossapi.baidu.com,proxy
-host,pn.baidu.com,proxy
 
 #douyin
 host-keyword,core-c-lq,proxy
