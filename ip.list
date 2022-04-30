@@ -7,6 +7,10 @@ ip-cidr,103.41.167.226/8,proxy
 #toutiao
 host-suffix,toutiaoapi.com,proxy
 
+#douyin
+host-keyword,normal-c-lq,proxy
+host-keyword,normal-lq,proxy
+
 #tieba
 host,www.baidu.com,proxy
 host,tcbox.baidu.com,proxy
@@ -19,7 +23,3 @@ host,query.dcdn.baidu.com,proxy
 host,afdconf.baidu.com,proxy
 host,cdn.hiphotos.baidu.com,proxy
 host,im.tieba.baidu.com,proxy
-
-#douyin
-host-keyword,normal-c-lq,proxy
-host-keyword,normal-lq,proxy
