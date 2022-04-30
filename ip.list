@@ -1,5 +1,12 @@
 #weibo
 host,api.weibo.cn,proxy
+
+#zhihu
+ip-cidr,103.41.167.226/8,proxy
+
+#toutiao
+host-suffix,toutiaoapi.com,proxy
+
 #tieba
 host,ppui-static-wap.cdn.bcebos.com,proxy
 host,onekey1.cmpassport.com,proxy
@@ -19,10 +26,7 @@ host,pimc2.baidu.com,proxy
 host,wappass.baidu.com,proxy
 host,passport.baidu.com,proxy
 ip-cidr,180.76.76.112/32,proxy
-#zhihu
-ip-cidr,103.41.167.226/8,proxy
-#toutiao
-host-suffix,toutiaoapi.com,proxy
+
 #douyin
 host,api.amemv.com,proxy
 host,athena-api.oceanengine.com,proxy
