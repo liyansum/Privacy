@@ -18,7 +18,7 @@ host,query.dcdn.baidu.com,proxy
 host,afdconf.baidu.com,proxy
 host,cdn.hiphotos.baidu.com,proxy
 host,im.tieba.baidu.com,proxy
-#host,c.tieba.baidu.com,proxy
+host,c.tieba.baidu.com,proxy
 #host,www.baidu.com,proxy
 
 #douyin
