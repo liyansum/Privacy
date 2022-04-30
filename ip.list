@@ -25,7 +25,10 @@ host,im.tieba.baidu.com,proxy
 host,pimc2.baidu.com,proxy
 host,wappass.baidu.com,proxy
 host,passport.baidu.com,proxy
+host,ossapi.baidu.com,proxy
 ip-cidr,180.76.76.112/32,proxy
+ip-cidr,39.156.69.52/32,proxy
+ip-cidr,180.76.76.200/32,proxy
 
 #douyin
 host-keyword,core-c-lq,proxy
