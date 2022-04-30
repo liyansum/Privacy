@@ -31,5 +31,7 @@ host,api.amemv.com,proxy
 host,athena-api.oceanengine.com,proxy
 host-suffix,douyinstatic.com,proxy
 host,pitaya.bytedance.com,proxy
-host,api*.amemv.com,proxy
+host-keyword,core-c-lq,proxy
+host-keyword,normal-c-lq,proxy
+host-keyword,search-quic-lq,proxy
 host,cloudauth-device.aliyuncs.com,proxy
