@@ -24,7 +24,6 @@ ip-cidr,103.41.167.226/8,proxy
 #toutiao
 host-suffix,snssdk.com,proxy
 host-suffix,zijieapi.com,proxy
-host-suffix,toutiaostatic.com,proxy
 host-suffix,toutiaoapi.com,proxy
 #douyin
 host,api.amemv.com,proxy
