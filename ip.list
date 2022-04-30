@@ -9,6 +9,13 @@ host-suffix,toutiaoapi.com,proxy
 
 #tieba
 host-suffix,baidu.com,proxy
+ip-cidr,36.152.45.141/8,proxy
+ip-cidr,180.76.76.112/8,proxy
+host-suffix,bcebos.com,proxy
+host-suffix,bdstatic.com,proxy
+host-suffix,bdimg.com,proxy
+host-suffix,gdtimg.com,proxy
+host-suffix,xdplt.com,proxy
 
 #douyin
 host-keyword,core-c-lq,proxy
