@@ -8,8 +8,8 @@ ip-cidr,103.41.167.226/8,proxy
 host-suffix,toutiaoapi.com,proxy
 
 #douyin
-host-keyword,normal-c-lq,proxy
 host-keyword,normal-lq,proxy
+host-keyword,normal-c-lq,proxy
 
 #tieba
 host,www.baidu.com,proxy
