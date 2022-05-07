@@ -1,0 +1,3 @@
+hostname = live-queue-sky-adr.game.163.com
+
+^https?:\/\/live-queue-sky-adr\.game\.163\.com\/queue url script-request-body 
