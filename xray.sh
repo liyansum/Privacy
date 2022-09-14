@@ -802,14 +802,14 @@ trojanConfig() {
 		        "security": "tls",
 		        "tlsSettings": {
 		            "serverName": "$DOMAIN",
-                                            "rejectUnknownSni": true,
-                                            "allowInsecure": false,
+                            "rejectUnknownSni": true,
+                            "allowInsecure": false,
 		            "alpn": ["http/1.1", "h2"],
-                                            "minVersion": "1.2",
+                            "minVersion": "1.2",
 		            "certificates": [
 		                {
-                                                    "ocspStapling": 3600,
-                                                    "oneTimeLoading": false,
+                                    "ocspStapling": 3600,
+                                    "oneTimeLoading": false,
 		                    "certificateFile": "$CERT_FILE",
 		                    "keyFile": "$KEY_FILE"
 		                }
